@@ -8,6 +8,7 @@
 .all-content{
     background: #f7f5f2;
 }
+
 html ::-webkit-scrollbar-track{
     background: transparent;
 }
